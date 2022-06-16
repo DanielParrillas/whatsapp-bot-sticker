@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "name": "Buho de anteojos",
+        "autor": "MARN",
+        "path": "./images/1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Oso Hormiguero",
+        "autor": "MARN",
+        "path": "./images/2.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Marmosa",
+        "autor": "MARN",
+        "path": "./images/3.jpg"
+    }
+]

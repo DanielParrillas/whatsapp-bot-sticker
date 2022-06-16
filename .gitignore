@@ -1,0 +1,7 @@
+# *-------- CARPETAS IGNORADAS --------
+#Modulos instalados
+node_modules
+#Configuracion de vscode
+.vscode
+#Sesiones de whatasapp
+.wwebjs_auth
